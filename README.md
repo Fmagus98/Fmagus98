@@ -18,7 +18,7 @@
 <p><img src="https://img.shields.io/badge/-Maya%203d-333333?style=flat&amp;logo=unity)" style="max-width: 100%;"></p>
 <p><img src="https://img.shields.io/badge/-Autocad%203d-333333?style=flat&amp;logo=unity)" style="max-width: 100%;"></p>
 
-<h3Infrastructure and DevOps</h3>
+<h3>Infrastructure and DevOps</h3>
 <p><img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" style="max-width: 100%; display:inline;"></p>
 <p><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;"></p>
 <h3>Enviroment, IDEs and Tools,Plugin</h3>
