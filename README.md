@@ -12,10 +12,7 @@
 <p><img src="https://img.shields.io/badge/-Gcode-333333?style=flat&amp; style="max-width: 100%;"></p>
 <p><img src="https://img.shields.io/badge/-C++[arduino]-333333?style=flat&amp; style="max-width: 100%;"></p>
 <h3>Libraries and Frameworks</h3>
-<p><img src="https://img.shields.io/badge/-Fusion%20360-333333?style=flat&amp;logo=fusion360" style="max-width: 100%;"></p>
-<p><img src="https://img.shields.io/badge/-Maya%203d-333333?style=flat&amp;logo=maya3d" style="max-width: 100%;"></p>
-<p><img src="https://img.shields.io/badge/-Autocad%203d-333333?style=flat&amp;logo=autocad" style="max-width: 100%;"></p>
-
+<p><img src="https://img.shields.io/badge/-ReactJs-333333?style=flat&amp;logo=react" style="max-width: 100%;"></p>
 <h3>Infrastructure and DevOps</h3>
 <p><img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" style="max-width: 100%; display:inline;"></p>
 <p><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;"></p>
