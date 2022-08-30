@@ -14,8 +14,12 @@
 <h3Infrastructure and DevOps</h3>
 <p><img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" style="max-width: 100%; display:inline;"></p>
 <p><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;"></p>
-<h3>Enviroment, IDEs and Tools</h3>
+<h3>Enviroment, IDEs and Tools,Plugin</h3>
 <div style="display:inline;">
 <p><img src="https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=7e10cc" style="max-width: 100%;"></p>
 <p><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></p>
+<p><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></p>
+<p><img src="https://img.shields.io/badge/-SweetAlert2-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></p>
+<h3>Technologies I'm interested to learn more<h3>
+  <p><img src="https://img.shields.io/badge/-Tailwind-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></p>
 </div>
