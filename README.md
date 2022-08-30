@@ -10,7 +10,7 @@
 <h3>Languages</h3>
 <p><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" style="max-width: 100%;"></p
 <p><img src="https://img.shields.io/badge/-Gcode-333333?style=flat&amp; style="max-width: 100%;"></p>
-<p><img src="https://img.shields.io/badge/-C++-arduino-333333?style=flat&amp; style="max-width: 100%;"></p>
+<p><img src="https://img.shields.io/badge/-C++[arduino]-333333?style=flat&amp; style="max-width: 100%;"></p>
 <h3>Libraries and Frameworks</h3>
 <p><img src="https://img.shields.io/badge/-Fusion%20360-333333?style=flat&amp;logo=fusion360" style="max-width: 100%;"></p>
 <p><img src="https://img.shields.io/badge/-Maya%203d-333333?style=flat&amp;logo=maya3d" style="max-width: 100%;"></p>
