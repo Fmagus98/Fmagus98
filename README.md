@@ -12,8 +12,10 @@
 <h3>Libraries and Frameworks</h3>
 <p><img src="https://img.shields.io/badge/-Fusion%20360-333333?style=flat&amp;logo=unity)" style="max-width: 100%;"></p>
 <h3Infrastructure and DevOps</h3>
+<p>
 <p><img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" style="max-width: 100%;"></p>
 <p><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;"></p>
+</p>
 <h3>Enviroment, IDEs and Tools</h3>
 <p><img src="https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=7e10cc" style="max-width: 100%;"></p>
 <p><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></p>
