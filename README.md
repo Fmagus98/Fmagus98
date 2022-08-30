@@ -9,7 +9,7 @@
 <h2Tech Knowdledge</h2>
 <h3>Languages</h3>
 <p><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" style="max-width: 100%;"></p
-<p><img src="https://img.shields.io/badge/-Gcode-333333?style=flat&amp;logo="gcode" style="max-width: 100%;">arduino</p>
+<p><img src="https://img.shields.io/badge/-Gcode(arduino)-333333?style=flat&amp;logo="g-code" style="max-width: 100%;"></p>
 
   
 <h3>Libraries and Frameworks</h3>
