@@ -9,6 +9,8 @@
 <br>
 <p>"The teacher's job is not so much to teach everything that can be learned, as to produce in the student a love and esteem for knowledge“ — John Locke  </p>
 <br>
+<a href="https://www.linkedin.com/mwlite/in/federico-martearena-009a6a156"> My LinkedIn profile</a>
+<br>
 <h2Tech Knowdledge</h2>
 <h3>Languages</h3>
 <p>
