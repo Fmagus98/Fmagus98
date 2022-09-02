@@ -5,6 +5,9 @@
 <li>🧑💻Studiying Full Stack Developer in CoderHouse</li>
 <li>👓</g-emoji> i have studied design and 3d modeling in a self-taught way</li>
 <li>🎼</g-emoji> I play some instruments like Guitar and Piano in my free time</li>
+<li>📚Passion for teaching</li>
+<br>
+<p>"The teacher's job is not so much to teach everything that can be learned, as to produce in the student a love and esteem for knowledge“ — John Locke  </p>
 <br>
 <h2Tech Knowdledge</h2>
 <h3>Languages</h3>
