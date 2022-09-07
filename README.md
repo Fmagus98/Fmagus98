@@ -1,9 +1,9 @@
 <h1>👋I am Federico Martearena</h1>
 </a>About Me</h2>
 <ul>
-<li>🎓</g-emoji> studying bachelor of computer programming in UNSAM</li>
+<li>🎓</g-emoji> Studying bachelor of computer programming in UNSAM</li>
 <li>🧑💻Studiying Full Stack Developer in CoderHouse</li>
-<li>👓</g-emoji> i have studied design and 3d modeling in a self-taught way</li>
+<li>👓</g-emoji> I have studied design and 3d modeling in a self-taught way</li>
 <li>🎼</g-emoji> I play some instruments like Guitar and Piano in my free time</li>
 <li>📚Passion for teaching</li>
 <br>
