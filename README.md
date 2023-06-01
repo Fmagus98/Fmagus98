@@ -38,7 +38,6 @@
 <p>
 <a><img src="https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=7e10cc" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></a>
-<a><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=007ACC" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-SweetAlert2-333333?style=flat&amp" style="max-width: 100%;"></a>
 </p>
 <h3>Technologies I'm interested to learn more<h3>
