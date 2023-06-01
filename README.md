@@ -15,8 +15,8 @@
 <h2>Tech Knowdledge</h2>
 <h3>Languages</h3>
 <p>
-<a><img src="https://img.shields.io/badge/HTML-333333?style=flat&amp;logo=html5&logoColor=white" style="max-width: 100%;"></a>
-<a><img src="https://img.shields.io/badge/CSS-333333?style=flat&amp;logo=css3&logoColor=white" style="max-width: 100%;"></a>
+<a><img src="https://img.shields.io/badge/HTML-333333?style=flat&amp;logo=html5&logoColor=F25320" style="max-width: 100%;"></a>
+<a><img src="https://img.shields.io/badge/CSS-333333?style=flat&amp;logo=css3&logoColor=146CAD" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-Gcode-333333?style=flat&amp;logo=gcode style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-C++[arduino]-333333?style=flat&amp;logo=c++ style="max-width: 100%;"></a>
@@ -24,7 +24,7 @@
 </p>
 <h3>Libraries and Frameworks</h3>
 <p>
-<a><img src="https://img.shields.io/badge/Sass-333333?style=flat&amp;logo=sass&logoColor=white" style="max-width: 100%;"></a>
+<a><img src="https://img.shields.io/badge/Sass-333333?style=flat&amp;logo=sass&logoColor=C26191" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/Bootstrap-333333?style=flat&amp;logo=bootstrap&logoColor=563D7C" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-ReactJs-333333?style=flat&amp;logo=react" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/Django-333333?style=flat&amp;logo=django&logoColor=white" style="max-width: 100%;"></a>
