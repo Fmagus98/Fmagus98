@@ -18,7 +18,7 @@
 <a><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-Gcode-333333?style=flat&amp;logo=gcode style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-C++[arduino]-333333?style=flat&amp;logo=c++ style="max-width: 100%;"></a>
-<a><img src="https://img.shields.io/badge/-Python-333333?style=flat&amp;logo=python style="max-width: 100%;"></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white style="max-width: 100%;"></a>
 </p>
 <h3>Libraries and Frameworks</h3>
 <p>
