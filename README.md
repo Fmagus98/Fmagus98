@@ -15,6 +15,8 @@
 <h2>Tech Knowdledge</h2>
 <h3>Languages</h3>
 <p>
+<a><img src="https://img.shields.io/badge/HTML-333333?style=flat&amp;logo=html5&logoColor=white" style="max-width: 100%;"></a>
+<a><img src="https://img.shields.io/badge/CSS-333333?style=flat&amp;logo=css3&logoColor=white" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-Gcode-333333?style=flat&amp;logo=gcode style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-C++[arduino]-333333?style=flat&amp;logo=c++ style="max-width: 100%;"></a>
