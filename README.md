@@ -26,6 +26,7 @@
 <p>
 <a><img src="https://img.shields.io/badge/Sass-333333?style=flat&amp;logo=sass&logoColor=C26191" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/Bootstrap-333333?style=flat&amp;logo=bootstrap&logoColor=563D7C" style="max-width: 100%;"></a>
+<a><img src="https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&amp;logo=tailwind-css&logoColor=07B0CE" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/-ReactJs-333333?style=flat&amp;logo=react" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/Django-333333?style=flat&amp;logo=django&logoColor=white" style="max-width: 100%;"></a>
 </p>
@@ -42,6 +43,5 @@
 </p>
 <h3>Technologies I'm interested to learn more<h3>
  <p>
-  <a><img src="https://img.shields.io/badge/-Tailwind-333333?style=flat&amp" style="max-width: 100%;"></a>
   <a><img src="https://img.shields.io/badge/-Three%20js-333333?style=flat&amp" style="max-width: 100%;"></a>
 </p>
