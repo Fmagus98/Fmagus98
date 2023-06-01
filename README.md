@@ -24,8 +24,9 @@
 </p>
 <h3>Libraries and Frameworks</h3>
 <p>
-<a><img src="https://img.shields.io/badge/-ReactJs-333333?style=flat&amp;logo=react" style="max-width: 100%;"></a>
 <a><img src="https://img.shields.io/badge/Sass-333333?style=flat&amp;logo=sass&logoColor=white" style="max-width: 100%;"></a>
+<a><img src="https://img.shields.io/badge/-ReactJs-333333?style=flat&amp;logo=react" style="max-width: 100%;"></a>
+<a><img src=" https://img.shields.io/badge/Django-333333?style=flat&amp;logo=django&logoColor=white" style="max-width: 100%;"></a>
 </p>
 <h3>Infrastructure and DevOps</h3>
 <p>
