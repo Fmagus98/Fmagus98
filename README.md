@@ -3,6 +3,7 @@
 <ul>
 <li>🎓</g-emoji> Studying bachelor of computer programming in UNSAM</li>
 <li>🧑💻Frontend Developer</li>
+<li>🐍Teacher in python</li>
 <li>👓</g-emoji> I have studied design and 3d modeling in a self-taught way</li>
 <li>🎼</g-emoji> I play some instruments like Guitar and Piano in my free time</li>
 <li>📚Passion for teaching</li>
