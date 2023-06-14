@@ -43,9 +43,9 @@
 <a><img src="https://img.shields.io/badge/-SweetAlert2-333333?style=flat&amp" style="max-width: 100%;"></a>
 </p>
 <h3>Technologies I'm interested to learn more<h3>
- <p>
+<p>
   <a><img src="https://img.shields.io/badge/-Three%20js-333333?style=flat&amp" style="max-width: 100%;"></a>
 </p>
- <p>
+<p>
   <a><img src="https://img.shields.io/badge/-Tensorflow-333333?style=flat&amp" style="max-width: 100%;"></a>
 </p>
